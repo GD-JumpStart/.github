@@ -15,6 +15,6 @@ You can help contribute to JumpStart by opening a [pull request](https://github.
 ## Help, suggestions, etc.
 If you have a question regarding JumpStart, or if you have ideas on how this program can be improved, or anything else related to JumpStart in general, you can create an [issue](https://github.com/GD-JumpStart/Application/issues).
 ## Credits
-- [KontrollFreek](https://www.kontroll.dev/), creator and main developer of JumpStart
+- [KontrollFreek](https://twitter.com/KontrollF), creator and main developer of JumpStart
 - [ninXout](https://github.com/ninXout), for help with MacOS support
 - [iris_tr](https://twitter.com/1vbbbbb_uwu), for help with UI designing
