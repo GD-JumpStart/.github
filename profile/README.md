@@ -3,7 +3,7 @@
 > Note: This program is still in very early development, and so there might be bugs and glitches hidden in it. You can help us improve by reporting bugs in the Issues tab of our Application repository. 
 ## Features
 - Download and install new ".dll" GD mods from our mod store
-- Manage, disable, or delete your current installed ",dll" mods
+- Manage, disable, or delete your current installed ".dll" mods
 - Install new texture packs for GD and manage your current ones
 - Manage your current GD save files
 - Supports multiple GD installations (for use with GDPSes)
