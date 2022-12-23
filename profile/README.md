@@ -1,4 +1,4 @@
-# ![GD JumpStart icon](https://github.com/GD-JumpStart.png?size=40) GD JumpStart
+# ![GD JumpStart icon](https://github.com/GD-JumpStart.png?size=40) JumpStart
 **JumpStart** is a (work in progress) program specialized in managing and downloading mods, texture packs and more for Geometry Dash. Think of it like, for example, what Olympus is to Celeste.
 > Note: This program is still in very early development, and so there might be bugs and glitches hidden in it. You can help us improve by reporting bugs in the Issues tab of our Application repository. 
 ## Features
