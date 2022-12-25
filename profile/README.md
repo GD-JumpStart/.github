@@ -7,6 +7,7 @@
 - Install new texture packs for GD and manage your current ones
 - Manage your current GD save files
 - Supports multiple GD installations (for use with GDPSes)
+- Supports [Geode](https://github.com/geode-sdk/geode), a modern GD mod loader and modding SDK
 ## Current supported platforms
 - Windows
 - MacOS (in development)
